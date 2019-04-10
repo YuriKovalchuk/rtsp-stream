@@ -1,0 +1,25 @@
+{
+  "name": "rtsp-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriKovalchuk/rtsp-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriKovalchuk/rtsp-stream/issues"
+  },
+  "homepage": "https://github.com/YuriKovalchuk/rtsp-stream#readme",
+  "dependencies": {
+    "jsmpeg": "^1.0.0",
+    "node-onvif": "^0.1.7",
+    "node-rtsp-stream": "0.0.5"
+  }
+}
